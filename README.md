@@ -2,6 +2,8 @@
 
 Here I just took one of the Dockerfiles from the original repo and made minor adjustments just to get the binaries out.
 
+[Original Dockerfile](https://github.com/LibreDWG/libredwg/blob/master/build-aux/Dockerfile)
+
 ## Build & Run
 
 ```bash
