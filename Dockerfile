@@ -53,5 +53,6 @@ RUN ldconfig
 ############################
 
 # do other stuff
+# maybe install zip and extract the compiled files from /tmp/dwg2dxf_bin
 
 CMD ["tail", "-f", "/dev/null"]
